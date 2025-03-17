@@ -1,6 +1,8 @@
 
 # MeshFleet Dataset Implementation and Car Quality Classification
 
+🤗 **Huggingface Dataset**: [MeshFleet](https://huggingface.co/datasets/DamianBoborzi/MeshFleet)
+
 This repository contains the implementation for processing the MeshFleet dataset, a curated collection of 3D car models derived from Objaverse-XL, along with a car quality classification pipeline.
 
 ![MeshFLeet Pipeline Overview](./data/Pipeline.png)
