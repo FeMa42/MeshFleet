@@ -5,7 +5,7 @@
 
 This repository contains the implementation for the generation of the MeshFleet dataset, a curated collection of 3D car models derived from Objaverse-XL, using a car quality classification pipeline.
 
-![MeshFLeet Pipeline Overview](./data/Pipeline.png)
+![MeshFLeet Pipeline Overview](./data/pipeline_overview.png)
 
 **Dataset Overview:**
 
